@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="example_text">eguindo o relatório do jornal Economic Daily News sobre um novo hardware do Nintendo Switch a vindo no próximo ano, a Bloomberg também esta reportando que a Nintendo planeja lançar um novo modelo de seu console hibrido em 2021.  A Bloomberg diz que de acordo com “pessoas familiarizadas com o assunto” a Nintendo considerou recursos como maior capacidade de processamento e resolução gráfica de 4K para o novo modelo do Nintendo Switch, embora não seja certo se isto estará nas especificações finais. Além disso, é esperado que 2021 tenha uma boa line-up de jogos first party e third party para uma ampla gama de jogadores para complementar o novo modelo de seu console hibrido.</string>
+    <string name="title_first_fragment">News Timeline</string>
+    <string name="open_article_transition">open_article</string>
+    <string name="title_load_page">Carregando...</string>
+</resources>
